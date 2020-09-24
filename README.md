@@ -29,7 +29,7 @@ Repo Contains Code As Follows
 
     Twitter-analysis Folder consist 
         *)Twitter_topic_modelling Notebook consist of topic analysis and clusturing 
-        [Interect Chart Can Be Accessed At](https://github.com/ap1690/Research_Paper_Fear_Propgation/blob/master/Twitter-analysis/twitter_topic_result.html)
+[Interect Chart Can Be Accessed At](https://github.com/ap1690/Research_Paper_Fear_Propgation/blob/master/Twitter-analysis/twitter_topic_result.html)
         
 ![Alt text](/6-cities-news-analysis/tweets6.png?raw=true "Fear Anger Graph In 6 Cities")
  ![Alt text](/6-cities-news-analysis/tweets3.png?raw=true "Fear Anger Graph In 6 Cities")
