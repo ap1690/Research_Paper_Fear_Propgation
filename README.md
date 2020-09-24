@@ -3,7 +3,8 @@ Repo Contains Code As Follows
 
     Alyien-News-Analysis Folder Contains 
             *)Alyien_cleaning_news Notebook Consist of wrangaling and preparing the news data by applying BERT for  emotion classification on the Alyien Dataset
-            ![Alt text](/6-cities-news-analysis/all-city-fear-anger.jpg?raw=true "Fear Anger Graph In 6 Cities")
+![Alt text](/6-cities-news-analysis/all-city-fear-anger.jpg?raw=true "Fear Anger Graph In 6 Cities")
+            
             *)Anlyien_news_analyis Notebook consist of understanding the news emotion patterns and interpreting it or further use
             *)Alyien_news_top2vec Notebook where i topic modeled the news by using Top2Vec for context mapping with tweets. 
     
