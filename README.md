@@ -17,7 +17,7 @@ Repo Contains Code As Follows
  
  ![Alt text](/6-cities-news-analysis/alyien2.png?raw=true "Fear Anger Graph In 6 Cities")
  ![Alt text](/6-cities-news-analysis/alyien1.png?raw=true "Fear Anger Graph In 6 Cities")
-  ![Alt text](/6-cities-news-analysis/pattern1.jpg?raw=true "Fear Anger Graph In 6 Cities")
+ 
     
     6-cities-news-analysis Folder as Alyien News Dataset was insuffient and does not contains enough news
     
@@ -27,7 +27,8 @@ Repo Contains Code As Follows
   
 ![Alt text](/6-cities-news-analysis/News-sentiment-6cities.png?raw=true "Fear Anger Graph In 6 Cities")
 ![Alt text](/6-cities-news-analysis/all-city-fear-anger.jpg?raw=true "Fear Anger Graph In 6 Cities")
-
+ ![Alt text](/6-cities-news-analysis/pattern1.jpg?raw=true "Fear Anger Graph In 6 Cities")
+ 
     Twitter-analysis Folder consist 
         *)Twitter_topic_modelling Notebook consist of topic analysis and clusturing 
 [Interect Chart Can Be Accessed At](https://github.com/ap1690/Research_Paper_Fear_Propgation/blob/master/Twitter-analysis/twitter_topic_result.html)
