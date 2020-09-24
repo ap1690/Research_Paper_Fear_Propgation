@@ -17,6 +17,7 @@ Repo Contains Code As Follows
  
  ![Alt text](/6-cities-news-analysis/alyien2.png?raw=true "Fear Anger Graph In 6 Cities")
  ![Alt text](/6-cities-news-analysis/alyien1.png?raw=true "Fear Anger Graph In 6 Cities")
+  ![Alt text](/6-cities-news-analysis/pattern1.jpg?raw=true "Fear Anger Graph In 6 Cities")
     
     6-cities-news-analysis Folder as Alyien News Dataset was insuffient and does not contains enough news
     
