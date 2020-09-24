@@ -2,10 +2,17 @@
 Repo Contains Code As Follows
 
     Alyien-News-Analysis Folder Contains 
+    
+    
             *)Alyien_cleaning_news Notebook Consist of wrangaling and preparing the news data by applying BERT for  emotion classification on the Alyien Dataset
+
+![Alt text](/6-cities-news-analysis/News-sentiment-6cities.png?raw=true "Fear Anger Graph In 6 Cities")
 ![Alt text](/6-cities-news-analysis/all-city-fear-anger.jpg?raw=true "Fear Anger Graph In 6 Cities")
             
             *)Anlyien_news_analyis Notebook consist of understanding the news emotion patterns and interpreting it or further use
+          
+![Alt text](/6-cities-news-analysis/pattern1.jpg?raw=true "Pattern")
+
             *)Alyien_news_top2vec Notebook where i topic modeled the news by using Top2Vec for context mapping with tweets. 
     
     6-cities-news-analysis Folder as Alyien News Dataset was insuffient and does not contains enough news
@@ -23,6 +30,6 @@ Mapping of each city news with coresponding tweets by using top2vec
 
 
 
-
+All the corresponding files and weights can be accessed from here : https://drive.google.com/drive/folders/1UiVW--6QhvK_ZxSnWz_lftGqRBtl5xEa?usp=sharing
 ## Work By
 Chirag & Akshey
